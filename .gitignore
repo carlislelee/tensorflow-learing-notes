@@ -1,0 +1,6 @@
+*
+./.gitignore
+./Untitled*
+!./README.md
+!./LICENCE
+!./*.ipynb
